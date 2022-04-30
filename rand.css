@@ -34,11 +34,11 @@ color: #10B981;
 }
 
 div1{
-    position: absolute;
+    position: relative;
 width: 320px;
 height: 28px;
 left: 52px;
-top: 208px;
+top: 220px;
 
 /* text-xl/leading-7/font-normal */
 
@@ -70,7 +70,7 @@ position: absolute;
 width: 211px;
 height: 44px;
 left: 52px;
-top: 285px;
+top: 278px;
 
 background: #10B981;
 /* shadow/sm */
@@ -128,7 +128,7 @@ color: #FFFFFF;
     /* border: 2px solid white; */
     height: 146px;
     width: 546px;
-    top: 370px;
+    top: 342px;
     left: 0px;
     flex-wrap: wrap;
     align-items: center;
